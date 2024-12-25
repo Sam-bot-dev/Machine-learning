@@ -1,0 +1,20 @@
+ML Roadmap
+1.intro 
+2.tools 
+3.problem 
+
+
+steps 
+    import data
+    clean data
+    split data into training and testing
+    create a model
+    train the model
+    make oredictions 
+    evaluate and improve
+
+libraries
+    numpy
+    pandas
+    matplotlib
+    scikit-learn
